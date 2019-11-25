@@ -1,16 +1,16 @@
-# twitter
+# twitterAPI
 
 FIXME
 
-## Prerequisites
+## Pre-requisitos
 
-You will need [Leiningen][] 2.0.0 or above installed.
+voce precisará de [Leiningen][] 2.0.0
 
 [leiningen]: https://github.com/technomancy/leiningen
 
 ## Running
 
-To start a web server for the application, run:
+Para rodar o servidor web digite na linha de comando:
 
     lein ring server
 
