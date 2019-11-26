@@ -42,7 +42,7 @@ Para rodar o servidor web digite na linha de comando:
     Gostei tanto da tecnologia que resolvi me aprofunda nela, parece muito promissora e com grandes agencias apostando nela o mercado 
     e a comunidade deve se expandir.
     
-## bando de dados
+## banco de dados
 
     o escript da base de dados estará junto ao código no github.
     Foi usado Mysql pelo fato de ter mais familiaridade.
